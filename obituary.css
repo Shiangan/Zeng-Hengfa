@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'ChenYu';
-    src: url('辰魚落雁體.ttf') format('truetype'); /* 使用 truetype 格式 */
+    src: url('清松手写体5.ttf') format('truetype'); /* 使用 truetype 格式 */
 }
 
 body {
@@ -34,7 +34,7 @@ header .logo {
 }
 
 header h1 {
-    font-family: 'ChenYu', Arial; /* 使用辰魚落雁體 */
+    font-family: '清松手写体5.ttf', Arial; /* 使用辰魚落雁體 */
     font-size: 38px; /* 根据需要调整字体大小 */
     color: #333; /* 字体颜色 */
     margin: 0; /* 清除默认的 margin */
@@ -166,7 +166,7 @@ header h1 {
 }
 
 #donate-flower p {
-    font-family: 'ChenYu', Arial;
+    font-family: '清松手写体5.ttf', Arial;
     font-size: 28px; /* 内容字体大小 */
     margin: 10px 0; /* 内容上下边距 */
     color: #555; /* 内容颜色 */
@@ -256,7 +256,7 @@ header h1 {
 /* 页脚样式 */
 footer {
     text-align: center;
-    font-family: 'ChenYu', serif; /* 设置字体为辰魚落雁體 */
+    font-family: '清松手写体5.ttf', serif; /* 设置字体为辰魚落雁體 */
     padding: 20px;
     background-color: #f1f1f1; /* 页脚背景颜色 */
     border-top: 1px solid #ddd; /* 上边框 */
