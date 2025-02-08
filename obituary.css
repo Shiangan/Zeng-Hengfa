@@ -256,7 +256,7 @@ header h1 {
 /* 页脚样式 */
 footer {
     text-align: center;
-    font-family: '清松手写体5.ttf', serif; /* 设置字体为辰魚落雁體 */
+    font-family: '清松手写体5.ttf'; /* 设置字体为辰魚落雁體 */
     padding: 20px;
     background-color: #f1f1f1; /* 页脚背景颜色 */
     border-top: 1px solid #ddd; /* 上边框 */
