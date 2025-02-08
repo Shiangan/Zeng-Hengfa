@@ -159,7 +159,7 @@ header h1 {
 }
 
 #donate-flower h3 {
-    font-family: 'ChenYu', Arial;
+    font-family: '清松手写体5.ttf', Arial;
     font-size: 28px; /* 标题字体大小 */
     margin-bottom: 20px; /* 标题底部边距 */
     color: #333; /* 标题颜色 */
@@ -173,7 +173,7 @@ header h1 {
 }
 
 #donate-flower a.btn {
-    font-family: 'ChenYu', Arial;
+    font-family: '清松手写体5.ttf', Arial;
     display: inline-block;
     padding: 10px 20px;
     font-size: 26px; /* 按钮字体大小 */
