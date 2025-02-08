@@ -152,6 +152,7 @@ header h1 {
 
 /* 致贈花籃部分样式 */
 #donate-flower {
+    font-family: '清松手写体5.ttf';
     text-align: center; /* 内容居中对齐 */
     margin: 20px auto; /* 上下边距和水平居中 */
     max-width: 800px; /* 最大宽度 */
@@ -159,7 +160,7 @@ header h1 {
 }
 
 #donate-flower h3 {
-    font-family: '清松手写体5.ttf', Arial;
+    font-family: '清松手写体5.ttf';
     font-size: 28px; /* 标题字体大小 */
     margin-bottom: 20px; /* 标题底部边距 */
     color: #333; /* 标题颜色 */
